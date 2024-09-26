@@ -2,13 +2,10 @@
 
 This is a simple multiplatform app built using **Jetpack Compose Multiplatform**. The app lists the speakers of an event and allows users to view details about specific talks.
 
-
-<img src="https://github.com/user-attachments/assets/077b82ac-05a2-4fad-8ef4-9f47ae98cfad" width="28%" />
-<img src="https://github.com/user-attachments/assets/a022613a-b6d2-4537-8787-d6f3bbdae21e" width="30%" />
-
-
-
-
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/077b82ac-05a2-4fad-8ef4-9f47ae98cfad" width="28%" />
+    <img src="https://github.com/user-attachments/assets/a022613a-b6d2-4537-8787-d6f3bbdae21e" width="30%" />
+</p>
 
 ## Tech Stack
 
